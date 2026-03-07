@@ -5,8 +5,8 @@ import { Presentation, ArrowLeft } from "lucide-react";
 import { playPopSound } from "@/hooks/useAudio";
 
 const subTopics = [
-  { label: "PERBANDINGAN UMUM, SATUAN PEMBANDING DAN RASIO", path: "/materi/perbandingan/umum" },
-  { label: "LATIHAN MANDIRI", path: "/materi/perbandingan/latihan" },
+  { label: "PERBANDINGAN UMUM, SATUAN PEMBANDING DAN RASIO", path: "/materi/perbandingan/latihan" },
+  { label: "PERBANDINGAN SENILAI DAN BERBALIK NILAI", path: "/materi/perbandingan/senilai" },
   { label: "JUAL BELI, UNTUNG DAN RUGI", path: "/materi/perbandingan/jual-beli" },
   { label: "DISKON", path: "/materi/perbandingan/diskon" },
   { label: "BRUTO, NETTO DAN TARA", path: "/materi/perbandingan/bruto-netto-tara" },

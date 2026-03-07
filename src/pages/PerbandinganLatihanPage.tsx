@@ -30,7 +30,7 @@ const PerbandinganLatihanPage = () => {
       <PageNavigation />
       <div className="relative z-10 max-w-3xl w-full px-4 py-10">
         <h1 className="font-display text-xl md:text-2xl font-bold text-primary text-glow-cyan mb-2 text-center">
-          Latihan Mandiri
+          Perbandingan Umum, Satuan Pembanding dan Rasio
         </h1>
         <p className="text-white/60 text-sm text-center mb-8 font-body">Selesaikan soal-soal berikut.</p>
 
