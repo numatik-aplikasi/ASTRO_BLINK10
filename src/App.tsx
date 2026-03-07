@@ -27,6 +27,7 @@ import PerbandinganMenuPage from "./pages/PerbandinganMenuPage";
 import PerbandinganUmumPage from "./pages/PerbandinganUmumPage";
 import PerbandinganLatihanPage from "./pages/PerbandinganLatihanPage";
 import PerbandinganSenilaiPage from "./pages/PerbandinganSenilaiPage";
+import PerbandinganCampuranPage from "./pages/PerbandinganCampuranPage";
 import AljabarMateriPage from "./pages/AljabarMateriPage";
 import BilanganBulatMenuPage from "./pages/BilanganBulatMenuPage";
 import BilanganRasionalMenuPage from "./pages/BilanganRasionalMenuPage";
@@ -93,6 +94,7 @@ const AppInner = () => {
       <Route path="/materi/perbandingan/umum" element={<PerbandinganUmumPage />} />
       <Route path="/materi/perbandingan/latihan" element={<PerbandinganLatihanPage />} />
       <Route path="/materi/perbandingan/senilai" element={<PerbandinganSenilaiPage />} />
+      <Route path="/materi/perbandingan/campuran" element={<PerbandinganCampuranPage />} />
       <Route path="/materi/aljabar" element={<AljabarMateriPage />} />
       <Route path="/materi/aritmetika-sosial" element={<AritmetikaSosialMenuPage />} />
       <Route path="/materi/garis-dan-sudut" element={<GarisDanSudutMenuPage />} />
