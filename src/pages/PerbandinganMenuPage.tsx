@@ -8,6 +8,7 @@ const subTopics = [
   { label: "PERBANDINGAN UMUM, SATUAN PEMBANDING DAN RASIO", path: "/materi/perbandingan/latihan" },
   { label: "PERBANDINGAN SENILAI DAN BERBALIK NILAI", path: "/materi/perbandingan/senilai" },
   { label: "PERBANDINGAN CAMPURAN", path: "/materi/perbandingan/campuran" },
+  { label: "PERBANDINGAN SKALA", path: "/materi/perbandingan/skala" },
 ];
 
 const PerbandinganMenuPage = () => {
